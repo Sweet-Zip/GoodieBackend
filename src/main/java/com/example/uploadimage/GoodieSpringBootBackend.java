@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UploadimageApplication {
+public class GoodieSpringBootBackend {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UploadimageApplication.class, args);
+		SpringApplication.run(GoodieSpringBootBackend.class, args);
 	}
-
 }
